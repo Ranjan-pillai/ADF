@@ -1,0 +1,9 @@
+{
+	"name": "Ranjansiva",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7080083a-6dc7-447f-91cd-f2d0416377e2",
+		"tenantId": "863285c4-ade6-4843-bac3-614c155c9e76"
+	}
+}
